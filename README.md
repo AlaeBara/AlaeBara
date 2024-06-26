@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alaeddine Bara</h1>
 <h3 align="center">I'm a Fullstack web devloper !</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaeddinebara&label=Profile%20views&color=0e75b6&style=flat" alt="alaeddinebara" /> </p>
+
 
 - 🌱 I’m currently learning **everythings.**
 
@@ -38,4 +38,5 @@
   
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaeBara&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=alaeddinebara&label=Profile%20views&color=0e75b6&style=flat" alt="alaeddinebara" /> </p>
 
