@@ -30,13 +30,7 @@
 <br/>
 <hr>
 
-# 📊 GitHub Stats:
-<a href="https://github.com/AlaeBara">
-  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=AlaeBara&show_icons=true&theme=radical" alt="AlaeBara" />
-</a>
-<br/>
-  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaeBara&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alaeddinebara&label=Profile%20views&color=0e75b6&style=flat" alt="alaeddinebara" /> </p>
 
