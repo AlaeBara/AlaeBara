@@ -27,5 +27,15 @@
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 <?xml version="1.0" encoding="iso-8859-1"?>
 
+<br/>
+<hr>
+
+# 📊 GitHub Stats:
+<a href="https://github.com/AlaeBara">
+  <img align="center" height=200 width=450 src="https://github-readme-stats.vercel.app/api?username=AlaeBara&show_icons=true&theme=radical" alt="AlaeBara" />
+</a>
+<br/>
+  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=AlaeBara&theme=gruvbox&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 
