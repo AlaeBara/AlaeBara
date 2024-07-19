@@ -1,3 +1,7 @@
+<a href="#" target="_blank">
+  <img src="/alaeddine.svg" width="1200" alt="trungquandev-official" />
+</a>
+
 <h1 align="center">Hi 👋, I'm Alaeddine Bara</h1>
 <h3 align="center">I'm a Fullstack Web Developer!</h3>
 
