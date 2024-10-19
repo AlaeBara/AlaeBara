@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **everything.**
 
-- 👨‍💻 All of my projects are available at [https://alaeddinebara.netlify.app/](https://alae.pro/)
+- 👨‍💻 All of my projects are available at [https://alae.pro/](https://alae.pro/)
 
 - 📫 How to reach me **baraalaeddine@gmail.com**
 
